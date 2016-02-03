@@ -7,3 +7,16 @@
 img {
   float: right;
 }
+
+.paragraph1 {
+  background-color: #ffa366;
+}
+
+.paragraph2 {
+  background-color: #9494b8;
+}
+
+.important {
+  color: #8f246b;
+  font-weight: bold;
+}
